@@ -9,6 +9,8 @@ GOlang CLI that allows you to report any type of information to some group chat 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 [adaptiveCard](#adaptiveCard)<br>
 3. [Examples](#examples) <br>
     3.1. [Microsoft Teams](#mtExamples) <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.1 [Desktop](#messageCardDesktop)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1.2 [Mobile](#messageCardMobile)<br>
 
 ### 1.Develop <a name="develop"></a>
 
@@ -91,6 +93,8 @@ OPTIONS:
    --hookUrl value    Channel webhook URL
    --cardTitle value  Card title
    --cardText value   Card text
+   --uriAction value  URI action
+   --planKey value    Plan key
 ```
 
 ##### 2.1.2 adaptiveCard <a name="adaptiveCard"></a>
@@ -103,6 +107,9 @@ NOT YET IMPLEMENTED
 
 ##### 3.1 Microsoft Teams <a name="mtExamples"></a>
 
+###### 3.1.1 Desktop <a name="messageCardDesktop"></a>
+
+
 <img src="https://i.imgur.com/cgZ6jtt.png"
      alt="Markdown Monster icon"
      width="700" />
@@ -111,6 +118,10 @@ NOT YET IMPLEMENTED
      alt="Markdown Monster icon"
      width="600"/>
      
+     
+###### 3.1.2 Mobile <a name="messageCardMobile"></a>
+
+    
 <img src="https://i.imgur.com/u6kwQqe.jpg"
      alt="Markdown Monster icon"
      width="300" 
@@ -118,8 +129,8 @@ NOT YET IMPLEMENTED
      
 <img src="https://i.imgur.com/mhAGaz0.jpg"
      alt="Markdown Monster icon"
-     width="300" 
-     height="200"/>
+     width="320" 
+     height="230"/>
      
 
  
