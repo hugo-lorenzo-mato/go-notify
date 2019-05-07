@@ -111,11 +111,11 @@ NOT YET IMPLEMENTED
 
 
 <img src="https://i.imgur.com/cgZ6jtt.png"
-     alt="Markdown Monster icon"
+     alt="Microsoft Teams Golang CLI Desktop Message Card Black"
      width="700" />
      
 <img src="https://i.imgur.com/OLHcWu4.png"
-     alt="Markdown Monster icon"
+     alt="Microsoft Teams Golang CLI Desktop Message Card White"
      width="600"/>
      
      
@@ -123,12 +123,12 @@ NOT YET IMPLEMENTED
 
     
 <img src="https://i.imgur.com/u6kwQqe.jpg"
-     alt="Markdown Monster icon"
+     alt="Microsoft Teams Golang CLI Desktop Message Card Black Mobile"
      width="300" 
      height="500"/>
      
 <img src="https://i.imgur.com/mhAGaz0.jpg"
-     alt="Markdown Monster icon"
+     alt="Microsoft Teams Golang CLI Desktop Message Card Black Notification"
      width="320" 
      height="230"/>
      
